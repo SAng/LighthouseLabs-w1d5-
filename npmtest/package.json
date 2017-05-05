@@ -1,0 +1,21 @@
+{
+  "name": "firsttest",
+  "version": "1.0.0",
+  "description": "testing the functionality of npm for the first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "none",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
